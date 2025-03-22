@@ -42,23 +42,6 @@ This **E-commerce Desktop Application** is developed using **Windows Forms (WinF
 
 ---
 
-## **Installation & Setup**
-1. **Clone the Repository**  
-   ```sh
-   git clone https://github.com/your-repo/ecommerce-winforms.git
-   ```
-2. **Open the Project in Visual Studio**  
-   - Ensure **.NET Framework** is installed.
-3. **Setup the Database**  
-   - Import the `emp_cust` database in MySQL.
-   - Update the **connection string** in the project:
-     ```csharp
-     string connstring = "server=localhost;uid=root;pwd=root;database=emp_cust";
-     ```
-4. **Run the Application**  
-   - Build and execute from **Visual Studio**.
-
----
 
 ## **Project Screens**
 - **Login Screen**
